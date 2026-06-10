@@ -123,24 +123,6 @@ Add your Dashboard screenshot here.
 
 ---
 
-## 🚨 Threat Monitoring
-
-![Threat Monitoring](images/threat-monitoring.jpg)
-
-Description:
-Add your Threat Monitoring screenshot here.
-
----
-
-## ⚠️ Risk Analysis
-
-![Risk Analysis](images/risk-analysis.jpg)
-
-Description:
-Add your Risk Analysis screenshot here.
-
----
-
 ## 👨‍💼 Admin Panel
 
 ![Admin Panel](images/admin-panel.jpg)
@@ -150,7 +132,7 @@ Add your Admin Panel screenshot here.
 
 ---
 
-## 📈 Analytics Dashboard
+## 📈 Security Layers Dashboard
 
 ![Analytics Dashboard](images/analytics-dashboard.jpg)
 
@@ -168,24 +150,15 @@ Add your Alert Management screenshot here.
 
 ---
 
-# 🎥 Demo Video
-
-![Demo Thumbnail](images/demo-video-thumbnail.jpg)
-
-Add your demo video link here:
-
-https://your-demo-video-link.com
----
-
 # 🔄 Workflow
 
 ### Step 1
-User Login
+User Login(I'd and Password)
 
 ↓
 
 ### Step 2
-Authentication Verification
+Authentication Verification(face and Finger)
 
 ↓
 
@@ -288,7 +261,7 @@ src/
 
 # ⚙️ Installation
 
-git clone https://github.com/your-username/chakravyuh-ai.git
+git clone https://github.com/lifeking8080-lgtm/Chakravyuh-AI-Multi-Layer-Cyber-Defense-System
 
 cd chakravyuh-ai
 
@@ -340,17 +313,6 @@ Shivraj Patil
 
 ---
 
-## Team Members
-
-- Member 1
-- Member 2
-- Member 3
-- Member 4
-
-(Add team details here)
-
----
-
 # 📜 License
 
 This project is developed for educational, research, innovation, and cybersecurity purposes.
@@ -375,10 +337,10 @@ Contributions are welcome.
 Shivraj Patil
 
 ### GitHub
-https://github.com/your-username
+https://github.com/lifeking8080-lgtm
 
 ### Email
-your-email@example.com
+shivajispatil8968@gmail.com
 
 ---
 
