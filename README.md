@@ -77,11 +77,11 @@ Chakravyuh AI introduces a multi-layer security architecture powered by AI that 
 # 🏗️ System Architecture
 
 User Layer<br>
-    │<br>
-    ▼<br>
+    <br>│<br>
+    <br>▼<br>
 Authentication Layer<br>
-    │<br>
-    ▼<br>
+    <br>│<br>
+    <br>▼<br>
 AI Analysis Engine<br>
     │<br>
     ▼<br>
