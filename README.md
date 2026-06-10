@@ -98,7 +98,8 @@ Dashboard & Alert System<br>
 
 ## 🏠 Landing Page
 
-![Landing Page](images/landing-page.jpg)
+![Landing Page](
+<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/bd5fedbc-d40e-4ad4-948b-4fcafaef4e6f" `/>)
 
 Description:
 Add your Landing Page screenshot here.
@@ -107,7 +108,10 @@ Add your Landing Page screenshot here.
 
 ## 🔑 Login Page
 
-![Login Page](images/login-page.jpg)
+![Login Page](
+<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/e7abc0b1-8e8b-44af-9878-f12a212bfbea" />
+
+<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/444c17be-00c2-467e-ac91-53b01fc9c726" />)
 
 Description:
 Add your Login Page screenshot here.
@@ -116,7 +120,8 @@ Add your Login Page screenshot here.
 
 ## 📊 Dashboard
 
-![Dashboard](images/dashboard.jpg)
+![Dashboard](
+<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/1adb727e-e157-4b28-8f4e-68c45ce5479d" />)
 
 Description:
 Add your Dashboard screenshot here.
@@ -125,16 +130,22 @@ Add your Dashboard screenshot here.
 
 ## 👨‍💼 Admin Panel
 
-![Admin Panel](images/admin-panel.jpg)
+![Admin Panel](<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/71e764d8-b635-475c-9a88-514a42b2a559" />)
 
 Description:
 Add your Admin Panel screenshot here.
-
+Screenshot 1:
+<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/07d15ce5-b413-4771-893c-929671868eff" />
+Screenshot 2:
+<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/b4fedf86-6f51-403d-b4ac-0da1ae685d18" />
 ---
 
 ## 📈 Security Layers Dashboard
 
-![Analytics Dashboard](images/analytics-dashboard.jpg)
+![Analytics Dashboard](
+<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/75305fe9-5e6c-4b5f-94c3-505739916606" />
+
+<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/3fda3320-b91e-493e-b682-11a7699b04ad" />)
 
 Description:
 Add your Analytics Dashboard screenshot here.
