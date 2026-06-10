@@ -120,43 +120,54 @@ Add your Login Page screenshot here.
 
 ## 📊 Dashboard
 
-![Dashboard](
-<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/1adb727e-e157-4b28-8f4e-68c45ce5479d" />)
+<br>Dashboard<br>
+<br><img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/1adb727e-e157-4b28-8f4e-68c45ce5479d" /><br>
 
-Description:
+<br>Description:<br>
+
 Add your Dashboard screenshot here.
 
 ---
 
 ## 👨‍💼 Admin Panel
 
-![Admin Panel](<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/71e764d8-b635-475c-9a88-514a42b2a559" />)
+<br>Admin Panel<br>
+<br><img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/71e764d8-b635-475c-9a88-514a42b2a559" /><br>
 
-Description:
-Add your Admin Panel screenshot here.
-Screenshot 1:
-<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/07d15ce5-b413-4771-893c-929671868eff" />
-Screenshot 2:
-<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/b4fedf86-6f51-403d-b4ac-0da1ae685d18" />
+<br>Description:<br>
+
+<br>Add your Admin Panel screenshot here.<br>
+
+<br>Screenshot 1:<br>
+
+<br><img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/07d15ce5-b413-4771-893c-929671868eff" /><br>
+
+<br>Screenshot 2:<br>
+
+<br><img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/b4fedf86-6f51-403d-b4ac-0da1ae685d18" />
 ---
 
 ## 📈 Security Layers Dashboard
 
-![Analytics Dashboard](
-<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/75305fe9-5e6c-4b5f-94c3-505739916606" />
+<br>Analytics Dashboard<br>
 
-<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/3fda3320-b91e-493e-b682-11a7699b04ad" />)
+<br><img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/75305fe9-5e6c-4b5f-94c3-505739916606" /><br>
 
-Description:
+
+<br>Description:<br>
+
 Add your Analytics Dashboard screenshot here.
 
 ---
 
 ## 🔔 Alert Management
 
-![Alert Management](images/alert-management.jpg)
+
+<br><img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/3fda3320-b91e-493e-b682-11a7699b04ad" /><br>
+
 
 Description:
+
 Add your Alert Management screenshot here.
 
 ---
