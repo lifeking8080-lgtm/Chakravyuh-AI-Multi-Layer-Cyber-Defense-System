@@ -254,31 +254,31 @@ Admin Review
 ---
 
 # 📂 Project Structure
-src/
-│
-├── app/
-│   │
-│   ├── components/
-│   │   │
-│   │   ├── ui/
-│   │   │   ├── Button.tsx
-│   │   │   ├── Card.tsx
-│   │   │   ├── Input.tsx
-│   │   │   ├── Modal.tsx
-│   │   │   └── Navbar.tsx
-│   │   │
-│   │   ├── dashboard/
-│   │   ├── analytics/
-│   │   ├── security/
-│   │   └── admin/
-│   │
-│   ├── pages/
-│   ├── hooks/
-│   ├── services/
-│   ├── utils/
-│   └── assets/
-│
-└── public/
+src/<br>
+│<br>
+├── app/<br>
+│   │<br>
+│   ├── components/<br>
+│   │   │<br>
+│   │   ├── ui/<br>
+│   │   │   ├── Button.tsx<br>
+│   │   │   ├── Card.tsx<br>
+│   │   │   ├── Input.tsx<br>
+│   │   │   ├── Modal.tsx<br>
+│   │   │   └── Navbar.tsx<br>
+│   │   │<br>
+│   │   ├── dashboard/<br>
+│   │   ├── analytics/<br>
+│   │   ├── security/<br>
+│   │   └── admin/<br>
+│   │<br>
+│   ├── pages/<br>
+│   ├── hooks/<br>
+│   ├── services/<br>
+│   ├── utils/<br>
+│   └── assets/<br>
+│<br>
+└── public/<br>
 ---
 
 # ⚙️ Installation
