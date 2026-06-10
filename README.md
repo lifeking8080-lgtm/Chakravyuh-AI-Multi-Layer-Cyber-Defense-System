@@ -82,8 +82,8 @@ Chakravyuh AI provides:
 
 ## 🏗️ System Architecture
 
-`text
-User Layer
+  ---text---
+  User Layer
      │
      ▼
 Authentication Layer
