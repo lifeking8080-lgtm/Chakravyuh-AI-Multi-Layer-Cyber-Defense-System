@@ -76,22 +76,22 @@ Chakravyuh AI introduces a multi-layer security architecture powered by AI that 
 
 # 🏗️ System Architecture
 
-User Layer
-    │
-    ▼
-Authentication Layer
-    │
-    ▼
-AI Analysis Engine
-    │
-    ▼
-Threat Detection Module
-    │
-    ▼
-Risk Scoring Engine
-    │
-    ▼
-Dashboard & Alert System
+User Layer<br>
+    │<br>
+    ▼<br>
+Authentication Layer<br>
+    │<br>
+    ▼<br>
+AI Analysis Engine<br>
+    │<br>
+    ▼<br>
+Threat Detection Module<br>
+    │<br>
+    ▼<br>
+Risk Scoring Engine<br>
+    │<br>
+    ▼<br>
+Dashboard & Alert System<br>
 ---
 
 # 🖼️ Project Screenshots
