@@ -1,7 +1,8 @@
 # 🛡️ Chakravyuh AI
 ### Multi-Layer AI-Powered Cyber Defense System
 
-![Project Banner](images/banner.jpg)
+![Project Banner]<br>
+<img width="1280" height="533" alt="Image" src="https://github.com/user-attachments/assets/b1e86515-46c0-4bbc-a1fd-fcc6ec7285a6" />
 
 ## 🚀 Live Demo
 
@@ -99,8 +100,7 @@ Dashboard & Alert System<br>
 ## 🏠 Landing Page
 
 ![Landing Page](
-<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/bd5fedbc-d40e-4ad4-948b-4fcafaef4e6f" `/>)
-
+<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/c8386cc0-ca61-4c92-adb3-a0752e950c8e" />
 Description:
 Add your Landing Page screenshot here.
 
