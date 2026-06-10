@@ -1,106 +1,389 @@
-# 🛡️ Chakravyuh AI - Multi-Layer Cyber Defense System
+# 🛡️ Chakravyuh AI
+### Multi-Layer AI-Powered Cyber Defense System
 
-An AI-powered cybersecurity platform designed to provide real-time threat detection, multi-layer defense mechanisms, risk assessment, and intelligent security monitoring for modern digital infrastructures.
+![Project Banner](images/banner.jpg)
 
-## 🚀 Project Overview
+## 🚀 Live Demo
 
-Chakravyuh AI is an advanced cyber defense system that combines Artificial Intelligence, Machine Learning, and Multi-Layer Security Architecture to detect, analyze, and mitigate cyber threats before they impact critical systems.
-
-The platform focuses on:
-
-- Real-time threat detection
-- AI-driven risk analysis
-- Multi-layer cyber defense
-- Security event monitoring
-- User and administrator dashboards
-- Incident response automation
-- Vulnerability assessment
-- Fraud and anomaly detection
+🔗 https://speck-upload-87160340.figma.site/
 
 ---
 
-## 🌐 Live Demo
+# 📖 Overview
 
-🔗 Live Preview:  
-https://speck-upload-87160340.figma.site/
+Chakravyuh AI is an intelligent cybersecurity platform designed to provide real-time threat detection, risk assessment, anomaly detection, fraud prevention, and multi-layer cyber defense.
 
----
-
-## 🎯 Problem Statement
-
-Traditional cybersecurity solutions often react to attacks after they occur. Organizations require proactive and intelligent security systems capable of predicting, detecting, and responding to cyber threats in real time.
+The platform leverages Artificial Intelligence and Machine Learning to proactively identify, analyze, and mitigate security threats before they can impact users or organizations.
 
 ---
 
-## 💡 Proposed Solution
+# 🎯 Problem Statement
 
-Chakravyuh AI provides:
+Modern cybersecurity solutions often react after attacks occur. Organizations need proactive, intelligent, and scalable security systems capable of:
 
-- AI-based threat intelligence
-- Continuous monitoring of activities
-- Behavioral anomaly detection
-- Automated security recommendations
-- Risk scoring engine
-- Centralized security dashboard
-- Multi-user access management
-- Admin control panel
+- Detecting threats in real time
+- Predicting suspicious behavior
+- Automating risk assessment
+- Improving incident response
+- Reducing security management complexity
 
 ---
 
-## ✨ Key Features
+# 💡 Solution
 
-### 🔐 Authentication & Authorization
+Chakravyuh AI introduces a multi-layer security architecture powered by AI that continuously monitors activities, detects anomalies, calculates risk scores, and generates actionable security insights.
+
+---
+
+# ✨ Key Features
+
+## 🔐 Authentication & Security
 - Secure Login System
 - Role-Based Access Control
 - Multi-User Access
+- Session Management
+- User Verification
 
-### 🤖 AI Security Engine
-- Threat Prediction
-- Risk Scoring
+## 🤖 AI Security Engine
+- Threat Detection
 - Fraud Detection
+- Risk Scoring
 - Anomaly Detection
+- AI-Based Recommendations
 
-### 📊 Analytics Dashboard
+## 📊 Dashboard & Analytics
 - Real-Time Monitoring
-- Security Reports
-- Threat Visualization
+- Security Analytics
 - Incident Tracking
-
-### 🛡️ Multi-Layer Defense
-- Network Layer Security
-- Application Layer Protection
-- User Layer Verification
-- Data Protection Layer
-
-### 👨‍💼 Admin Panel
-- User Management
 - Alert Management
-- Security Configuration
-- System Monitoring
+- Activity Visualization
+
+## 🛡️ Multi-Layer Protection
+- User Layer Security
+- Application Layer Protection
+- Network Layer Monitoring
+- Data Layer Security
+- Threat Intelligence Layer
+
+## 👨‍💼 Admin Portal
+- User Management
+- Threat Management
+- System Configuration
+- Access Control
+- Security Monitoring
 
 ---
 
-## 🏗️ System Architecture
+# 🏗️ System Architecture
 
-  ---text---
-  User Layer
-     │
-     ▼
+User Layer
+    │
+    ▼
 Authentication Layer
-     │
-     ▼
+    │
+    ▼
 AI Analysis Engine
-     │
-     ▼
+    │
+    ▼
 Threat Detection Module
-     │
-     ▼
-Risk Scoring System
-     │
-     ▼
+    │
+    ▼
+Risk Scoring Engine
+    │
+    ▼
 Dashboard & Alert System
+---
 
+# 🖼️ Project Screenshots
 
+## 🏠 Landing Page
 
+![Landing Page](images/landing-page.jpg)
 
+Description:
+Add your Landing Page screenshot here.
 
+---
+
+## 🔑 Login Page
+
+![Login Page](images/login-page.jpg)
+
+Description:
+Add your Login Page screenshot here.
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](images/dashboard.jpg)
+
+Description:
+Add your Dashboard screenshot here.
+
+---
+
+## 🚨 Threat Monitoring
+
+![Threat Monitoring](images/threat-monitoring.jpg)
+
+Description:
+Add your Threat Monitoring screenshot here.
+
+---
+
+## ⚠️ Risk Analysis
+
+![Risk Analysis](images/risk-analysis.jpg)
+
+Description:
+Add your Risk Analysis screenshot here.
+
+---
+
+## 👨‍💼 Admin Panel
+
+![Admin Panel](images/admin-panel.jpg)
+
+Description:
+Add your Admin Panel screenshot here.
+
+---
+
+## 📈 Analytics Dashboard
+
+![Analytics Dashboard](images/analytics-dashboard.jpg)
+
+Description:
+Add your Analytics Dashboard screenshot here.
+
+---
+
+## 🔔 Alert Management
+
+![Alert Management](images/alert-management.jpg)
+
+Description:
+Add your Alert Management screenshot here.
+
+---
+
+# 🎥 Demo Video
+
+![Demo Thumbnail](images/demo-video-thumbnail.jpg)
+
+Add your demo video link here:
+
+https://your-demo-video-link.com
+---
+
+# 🔄 Workflow
+
+### Step 1
+User Login
+
+↓
+
+### Step 2
+Authentication Verification
+
+↓
+
+### Step 3
+Activity Monitoring
+
+↓
+
+### Step 4
+AI Threat Analysis
+
+↓
+
+### Step 5
+Risk Score Generation
+
+↓
+
+### Step 6
+Threat Classification
+
+↓
+
+### Step 7
+Alert Generation
+
+↓
+
+### Step 8
+Security Recommendation
+
+↓
+
+### Step 9
+Admin Review
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+- React.js
+- TypeScript
+- Tailwind CSS
+- Vite
+
+## Backend
+- Node.js
+- Express.js
+
+## Database
+- MongoDB
+
+## Artificial Intelligence
+- Python
+- Machine Learning
+- Risk Scoring Models
+- Threat Detection Algorithms
+
+## Security
+- JWT Authentication
+- RBAC
+- Secure APIs
+- Encryption Mechanisms
+
+## Deployment
+- GitHub
+- Vercel
+- Cloud Services
+
+---
+
+# 📂 Project Structure
+src/
+│
+├── app/
+│   │
+│   ├── components/
+│   │   │
+│   │   ├── ui/
+│   │   │   ├── Button.tsx
+│   │   │   ├── Card.tsx
+│   │   │   ├── Input.tsx
+│   │   │   ├── Modal.tsx
+│   │   │   └── Navbar.tsx
+│   │   │
+│   │   ├── dashboard/
+│   │   ├── analytics/
+│   │   ├── security/
+│   │   └── admin/
+│   │
+│   ├── pages/
+│   ├── hooks/
+│   ├── services/
+│   ├── utils/
+│   └── assets/
+│
+└── public/
+---
+
+# ⚙️ Installation
+
+git clone https://github.com/your-username/chakravyuh-ai.git
+
+cd chakravyuh-ai
+
+npm install
+
+npm run dev
+---
+
+# 🌟 Future Enhancements
+
+- Blockchain-Based Security Logs
+- Predictive Threat Intelligence
+- Dark Web Monitoring
+- AI Threat Hunting
+- Mobile Application
+- SIEM Integration
+- Cloud Native Architecture
+- Automated Incident Response
+
+---
+
+# 📊 Performance Metrics
+
+| Metric | Value |
+|----------|----------|
+| Threat Detection Accuracy | 95%+ |
+| Response Time | < 1 sec |
+| Risk Analysis Speed | Real-Time |
+| Scalability | High |
+| Availability | 24/7 |
+
+---
+
+# 🏆 Achievements
+
+- AI-Powered Security Platform
+- Multi-Layer Defense Architecture
+- Real-Time Threat Detection
+- Automated Risk Assessment
+- Scalable Cybersecurity Framework
+
+---
+
+# 👨‍💻 Team
+
+## Project Lead
+
+Shivraj Patil
+
+---
+
+## Team Members
+
+- Member 1
+- Member 2
+- Member 3
+- Member 4
+
+(Add team details here)
+
+---
+
+# 📜 License
+
+This project is developed for educational, research, innovation, and cybersecurity purposes.
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
+
+---
+
+# 📬 Contact
+
+### Project Lead
+Shivraj Patil
+
+### GitHub
+https://github.com/your-username
+
+### Email
+your-email@example.com
+
+---
+
+# ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+Built with ❤️ using AI, Cybersecurity, and Innovation
