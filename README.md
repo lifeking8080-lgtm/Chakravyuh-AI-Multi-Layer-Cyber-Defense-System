@@ -108,10 +108,10 @@ Add your Landing Page screenshot here.
 
 ## 🔑 Login Page
 
-![Login Page](
-<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/e7abc0b1-8e8b-44af-9878-f12a212bfbea" />
+<br>Login Page<br>
+<br><img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/e7abc0b1-8e8b-44af-9878-f12a212bfbea" /><br>
 
-<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/444c17be-00c2-467e-ac91-53b01fc9c726" />)
+<br><img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/444c17be-00c2-467e-ac91-53b01fc9c726" /><br>
 
 Description:
 Add your Login Page screenshot here.
