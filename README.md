@@ -99,9 +99,10 @@ Dashboard & Alert System<br>
 
 ## 🏠 Landing Page
 
-![Landing Page](
-<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/c8386cc0-ca61-4c92-adb3-a0752e950c8e" />
-Description:
+![Landing Page]<br>
+<img width="591" height="1280" alt="Image" src="https://github.com/user-attachments/assets/c8386cc0-ca61-4c92-adb3-a0752e950c8e" /><br>
+
+Description:<br>
 Add your Landing Page screenshot here.
 
 ---
